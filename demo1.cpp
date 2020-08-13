@@ -3,7 +3,6 @@ using namespace std;
 int main
 {
 	cout << "Hello World!" << endl;
-	cout<<"夏子龙先生修改的内容"<<endl;
 	return 0;
 }
 
