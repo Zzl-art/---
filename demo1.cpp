@@ -6,5 +6,6 @@ int main
 	cout<<"lc's second update"<<endl;
 	cout<<"lc's first update"<<endl;
 	cout<<"张棕良的修改"<<endl;
+	cout<<zzltry2<<endl;
 	return 0;
 }
